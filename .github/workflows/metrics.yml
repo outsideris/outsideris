@@ -28,7 +28,7 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_charts: yes
           plugin_languages: yes
-          plugin_languages_skipped: "PHP"
+          plugin_languages_ignored: "PHP"
           plugin_stars: yes
           plugin_stars_limit: 4
           plugin_stargazers: yes
