@@ -28,6 +28,7 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_charts: yes
           plugin_languages: yes
+          plugin_languages_skipped: "php"
           plugin_stars: yes
           plugin_stars_limit: 4
           plugin_stargazers: yes
