@@ -1321,8 +1321,8 @@
               20
             </div>
                     <div class="entry">
-              <span class="value">1</span>
-              <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+              <span class="value"></span>
+              <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
               21
             </div>
                     <div class="entry">
@@ -1372,8 +1372,8 @@
                 Fri
               </div>
                         <div class="entry">
-                <span class="value">1</span>
-                <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <span class="value"></span>
+                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                 Sat
               </div>
                     </div>
@@ -2403,7 +2403,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>google/snappy</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2445,7 +2445,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft-sponsorships/microsoft-foss-fund</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2483,7 +2483,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>samber/awesome-prometheus-alerts</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2525,7 +2525,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nolar/kopf</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
