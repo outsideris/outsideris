@@ -1557,24 +1557,24 @@
                     <h3>Language activity</h3>
                     <div class="chart-bars horizontal">
                         <div class="entry">
-                            <span class="name">HCL</span>
-                            <div class="bar" style="width: 61.83050847457628%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            <span class="value">77%</span>
-                        </div>
-                        <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 8.406779661016948%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">11%</span>
+                            <div class="bar" style="width: 30.097087378640776%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">38%</span>
                         </div>
                         <div class="entry">
                             <span class="name">CSS</span>
-                            <div class="bar" style="width: 5.423728813559322%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">7%</span>
+                            <div class="bar" style="width: 19.41747572815534%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">24%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Shell</span>
-                            <div class="bar" style="width: 4.338983050847458%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">5%</span>
+                            <div class="bar" style="width: 15.533980582524272%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">19%</span>
+                        </div>
+                        <div class="entry">
+                            <span class="name">HCL</span>
+                            <div class="bar" style="width: 14.951456310679612%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">19%</span>
                         </div>
                     </div>
                 </section>
