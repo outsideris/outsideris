@@ -324,18 +324,18 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Liquid</span>
-                            <div class="bar" style="width: 55.061963775023834%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                            <span class="value">69%</span>
+                            <div class="bar" style="width: 55.91481122942885%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">70%</span>
                         </div>
                         <div class="entry">
                             <span class="name">CSS</span>
-                            <div class="bar" style="width: 18.455672068636797%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 18.741529525653437%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">23%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 6.48236415633937%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">8%</span>
+                            <div class="bar" style="width: 5.343659244917715%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">7%</span>
                         </div>
                     </div>
                 </section>
@@ -1504,7 +1504,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>codeanddonuts/hacker-laws-kr</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">💻📖 개발자에게 유용한 법칙, 이론, 원칙, 그리고 패턴들 #hackerlaws</div>
